@@ -1,0 +1,36 @@
+## Versions - External Dependencies
+
+bullet - v2.82
+http://code.google.com/p/bullet/
+
+freeType2 - v2.4.5
+http://freetype.sourceforge.net/download.html#stable
+
+glew - v1.10
+http://glew.sourceforge.net/
+
+lua - v5.2.1
+http://www.lua.org/download.html
+
+ogg - v1.3.2
+http://www.xiph.org/downloads/
+
+openal - v1.14
+http://kcat.strangesoft.net/openal.html
+
+libpng - v1.6.2
+http://libpng.org/pub/png/libpng.html
+
+tinyxml2 - v2.1
+https://github.com/leethomason/tinyxml2
+
+vorbis - v1.3.4
+http://www.xiph.org/downloads/
+
+zlib - v1.2.5
+http://zlib.net/
+
+
+
+
+
